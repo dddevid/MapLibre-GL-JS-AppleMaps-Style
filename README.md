@@ -1,6 +1,6 @@
 # MapLibre GL JS — Apple Maps Dark Style
 
-A pixel-faithful recreation of **Apple Maps dark mode** as a [MapLibre GL JS](https://maplibre.org/) style, powered by free and open tile data from [OpenFreeMap](https://openfreemap.org/).
+A recreation of **Apple Maps dark mode** as a [MapLibre GL JS](https://maplibre.org/) style, powered by free and open tile data from [OpenFreeMap](https://openfreemap.org/).
 
 ![Preview](https://raw.githubusercontent.com/dddevid/MapLibre-GL-JS-AppleMaps-Style/main/preview.png)
 
